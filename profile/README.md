@@ -62,20 +62,20 @@ For the latest availability and custom configurations, visit [RE:NODE](https://r
 
 ## Getting Started
 
-1. Visit [RE:NODE Website](https://renode.space?utm_source=chatgpt.com)
+1. Visit [RE:NODE Website](https://renode.space)
 2. Choose the hosting solution that matches your requirements.
 3. Deploy your server instantly through the control panel.
 4. Manage and scale your infrastructure anytime.
 
 Documentation:
-[RE:NODE Documentation](https://renode.space/doc?utm_source=chatgpt.com)
+[RE:NODE Documentation](https://renode.space/doc)
 
 ## Support
 
 Need help or have questions?
 
 * Email: [renodespace@gmail.com](mailto:renodespace@gmail.com)
-* Discord Community: [Join Discord](https://discord.gg?utm_source=chatgpt.com)
+* Discord Community: [Join Discord](https://discord.gg/M75j6TTjyx)
 
 ## License
 
